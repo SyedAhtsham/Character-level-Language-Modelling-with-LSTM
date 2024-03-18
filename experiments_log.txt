@@ -1,0 +1,4 @@
+Parameters used -> Minimum loss value
+{'lr': 0.001, 'hidden_size': 64, 'n_layers': 1} -> 0.5834
+{'lr': 0.01, 'hidden_size': 128, 'n_layers': 2} -> 0.3185
+{'lr': 0.005, 'hidden_size': 256, 'n_layers': 3} -> 0.2492
